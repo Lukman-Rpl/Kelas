@@ -1,0 +1,209 @@
+
+.Tulisan h1 {
+ position: absolute;
+ top:400px;
+ left:800px;
+ font-size:100px;
+}
+
+.Tulisan h4 {
+    position: absolute;
+    top:550px;
+    left:850px;
+    font-size: 30px;
+   }
+
+   .tombol  button{
+    position: absolute;
+    top:650px;
+    left:960px;
+    background-color: rgb(111, 145, 253);
+    height: 50px;
+    width:100px;
+    border-radius: 10%;
+    color: white;
+   }
+
+   .slide-2{
+    border:solid black 2px;
+    width: 1900px;
+    height:1500px;
+   }
+   
+   .kata{
+    margin-top: 700px ;
+   }
+   .kata h2{
+    font-size: 100px;
+    text-align: center;
+    margin: auto;
+   }
+   .kata h4{
+    font-size: 30px;
+    text-align: center;
+    margin:auto ;
+   }
+
+   .tombol-1 button{
+    background: black;
+    color: white;
+    border-radius: 5%;
+    width: 200px;
+    height: 50px;
+    margin-left:850px;
+    margin-top:50px;
+   }
+
+   .slide-3{
+    background: blue;
+    width: 1900px;
+    height:1000px;
+   }
+
+   .subjudul p{
+    color:rgb(252, 252, 35);
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+   }
+
+   .subjudul h1{
+    color:white;
+    text-align: center;
+    font-size: 100px;
+   }
+
+   .ikon{
+    justify-content: space-around;
+    display: flex;
+   }
+    
+.ikon .lingkaran{
+background: white;
+width: 200px;
+height: 200px;
+border-radius: 50%;
+margin-top: 100px;
+}
+.deskrip {
+    display: flex;
+    justify-content: space-around;
+    padding-right: 1% ;
+    color: white;
+}
+
+.deskrip-1 {
+    display: flex;
+    justify-content: space-around;
+    padding-right: 1% ;
+    color: white;
+    margin-bottom: 10%;
+}
+
+.slide-4 img{
+    margin-top: 100px;
+}
+
+.slide-4 .penutup {
+position: absolute;
+right: 100px ;
+top: 4200px;
+font-size: 40px;
+}
+
+.slide-4 .tombol-2 button{
+    background-color:blue;
+    border-radius:10%;
+    height:60px;
+    width: 150px;
+    position: absolute;
+    top:4490px;
+    left:850px;
+    color:white;
+
+}
+
+.subjudul-1 h4{
+    color: yellow;
+    text-align: center;
+}
+
+.subjudul-1 h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.g-1{
+    margin-left: 200px;
+}
+
+.g-2{
+    position: absolute;
+     left: 910px;
+     top:5253px;
+}
+
+.g-3{
+    margin-left: 200px;
+}
+
+.g-4{
+    position: absolute;
+    left:910px;
+    top:5723px;
+}
+
+.slide-5{
+    background: rgb(54, 54, 145);
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.klik-1 button{
+    background:s white;
+    color: black;
+    width:100px;
+    height:40px;
+    position: absolute;
+    left:800px;
+    top: 6324px;
+}
+
+.klik-2 button{
+    background: black;
+    color: white;
+     width: 100px;
+     height:40px;
+}
+
+.hias{
+    display: flex;
+    justify-content: center;
+}
+
+.bulat{
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+    background: rgb(11, 89, 116);
+}
+
+.foot{
+    text-align: center;
+}
+
+button:hover{
+    background-color: white;
+    color:black;
+}
+
+.portofolio img:hover{
+    width:500px;
+    height:500px;
+}
+
+.tombol-2 button:hover{
+    background-color: white;
+    color:black;
+}
