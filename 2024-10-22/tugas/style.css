@@ -1,0 +1,29 @@
+
+.judul {
+    text-align: center;
+}
+.nama p{
+justify-content: space-evenly;
+
+}
+ .gambar {
+    position: absolute;
+    left:1100px ;
+    bottom: 150px;
+    
+}
+.gambar img{
+    width: 200px;
+    height: 300px;
+}
+.pendidikan{
+    margin-top: 100px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
