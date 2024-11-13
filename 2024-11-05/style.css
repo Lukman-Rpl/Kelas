@@ -1,0 +1,54 @@
+.container{
+    width:900px;
+    margin:auto;
+}
+
+
+.header{
+    height: 200px;
+    display: flex;
+}
+
+.sekolah {
+ margin-top: 10px;
+}
+
+.logo img{
+width: 100px;
+height:100px;
+}
+
+.nav ul{
+    display:flex;
+    gap:30px;
+
+}
+
+ .nav ul li{
+    list-style:  none;
+}
+
+.home{
+    background-color: red;
+}
+
+
+.kontak{
+    background-color: aqua;
+}
+
+.sejarah{
+    background-color: blueviolet;
+}
+
+.jurusan{
+    background-color: yellow;
+}
+
+.jadwal{
+    background-color:rgb(145, 214, 88);
+}
+
+.tentang{
+    background-color:pink ;
+}
