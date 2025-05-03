@@ -1,0 +1,43 @@
+body {
+    background-color: #f4f4f9; /* Warna latar belakang halaman */
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #343a40;
+}
+
+.navbar {
+    background-color: #ff5733; /* Warna navbar */
+}
+
+.navbar-brand, .nav-link {
+    color: #fff !important; /* Mengubah warna teks navbar menjadi putih */
+}
+
+.navbar-brand:hover, .nav-link:hover {
+    color: #f1c40f !important; /* Warna teks navbar saat hover */
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.btn-primary, .btn-success {
+    background-color: #ff5733; /* Warna tombol */
+    border-color: #ff5733;
+}
+
+.btn-primary:hover, .btn-success:hover {
+    background-color: #e94e21; /* Warna tombol saat hover */
+    border-color: #e94e21;
+}
+
+.container {
+    padding-top: 20px;
+}
